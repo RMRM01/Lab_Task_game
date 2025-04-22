@@ -31,6 +31,7 @@ namespace CardGames
 
 		/// <summary>
 		/// Draws the game to the Window.
+		/// 	/// Draws the game to the Window.
 		/// </summary>
 		/// <param name="myGame">The details of the game -- mostly top card and scores.</param>
 		private static void DrawGame(Snap myGame)
